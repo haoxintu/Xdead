@@ -2,7 +2,8 @@
 Beyond a Joke: Dead Code Elimination Can Delete Live Code (ICSE-NIER'2024)
 
 
-The tool `Xdead` is currently under construction.
+An extended version of the tool is released at https://github.com/haoxintu/DirGen.
+
 
 # Citation
 ```
